@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/sese.txt",
+      "name": "色色"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+      "name": "高天流云S"
+    },   
+    {
+      "name":"🔞综合福利",
+      "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"
+    }/*,
+    {
+      "name":"🔞彩蛋",
+      "url":"https://raw.githubusercontent.com/lm1081/dby/main/cd1.txt"
+    },
+    {
+      "name":"🔞18+",
+      "url":"https://raw.githubusercontent.com/lm1081/dby/main/18+.txt"
+    },
+    {
+      "name":"🔞XH",
+      "url":"https://raw.githubusercontent.com/lm1081/dby/main/XH.txt"
+    }*/
+  ]
+}

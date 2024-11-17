@@ -1,0 +1,13 @@
+
+{
+  "storeHouse": [
+  {
+    "sourceName": "正经",
+    "sourceUrl": "https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/1c.txt"
+  }, 
+  {
+    "sourceName": "拾光",
+    "sourceUrl": "https://gitee.com/xmbjmjk/ck/raw/master/ck.json"
+  }
+ ]
+}
