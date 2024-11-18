@@ -6,10 +6,6 @@
     "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/1c.txt"
   },
   {
-    "sourceName": "云星日记",
-    "sourceUrl": "http://itvbox.cc/可视仓库"
-  },
-  {
     "sourceName": "欧歌",
     "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"
   }
