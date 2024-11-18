@@ -7,8 +7,8 @@
   "warningText": "请长按主页键刷新",
   
     "lives": [
-{"name":"ZB","type":0,"url":"https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/ZB.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-{"name":"ZB2","type":0,"url":"https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/ZB2.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true}
+{"name":"ZB","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/ZB.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+{"name":"ZB2","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/ZB2.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true}
   ],
 
   "sites": [
