@@ -103,10 +103,10 @@
       "url": "https://盒子迷.top/禁止贩卖",
       "name": "盒子迷"
     },
-/*    {
+    {
       "url": "http://mzjk.top/禁止贩卖",
       "name": "宝盒"
-    },*/
+    },
     {
       "url": "http://我不是.摸鱼儿.com",
       "name": "摸鱼4K"
@@ -116,8 +116,8 @@
       "name": "影视仓"
     },
     {
-      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-      "name": "短剧合集"
+      "url": "https://tv.youdu.fan:666/毒盒影视",
+      "name": "毒盒"
     }
   ]
 }
