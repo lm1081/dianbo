@@ -3,7 +3,7 @@
   "storeHouse": [
   {
     "sourceName": "正经",
-    "sourceUrl": "https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/1c.txt"
+    "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/1c.txt"
   }, 
   {
     "sourceName": "拾光",

@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/fan.txt",
+  "spider": "https://ghp.ci/https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/fan.txt",
   "logo": "http://www.ppxys.vip/upload/mxprocms/20240615-1/ac058e14dbf22f6f7520868d5022c65f.gif",
   "wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
 

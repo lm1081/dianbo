@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/2.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/lm1081/dianbo/refs/heads/main/2.txt",
       "name": "精品"
     },
     {
