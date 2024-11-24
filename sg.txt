@@ -1397,7 +1397,7 @@
       },
       "quickSearch": 0,
       "api": "csp_XBPQ",
-      "ext": "https://d.kstore.dev/download/4708/omg/lib/评书.json"
+      "ext": "https://d.kstore.dev/download/4708/omg/0930/评书.json"
     },
     {
       "key": "hipy_js_一曲肝肠断",
