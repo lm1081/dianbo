@@ -1227,7 +1227,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./0930/blifun影院.json"
+      "ext": "./lib/blifun影院.json"
     },
     {
       "key": "xbpq_韩迷TV",
@@ -1237,7 +1237,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./0930/xbpq_韩迷TV.json"
+      "ext": "./lib/xbpq_韩迷TV.json"
     },
     {
       "key": "电视剧网",
@@ -1247,7 +1247,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./0831/电视剧网.json"
+      "ext": "./lib/电视剧网.json"
     },
     {
       "key": "清凌影院",
@@ -1257,7 +1257,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./0831/清凌影院.json"
+      "ext": "./lib/清凌影院.json"
     },
     {
       "key": "森林影院",
@@ -1267,7 +1267,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./0831/森林影院.json"
+      "ext": "./lib/森林影院.json"
     },
     {
       "key": "94影院",
@@ -1277,7 +1277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./0831/94影院.json"
+      "ext": "./lib/94影院.json"
     },
     {
       "key": "理理影院",
@@ -1287,7 +1287,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./0831/理理影院.json"
+      "ext": "./lib/理理影院.json"
     },
     {
       "key": "xbpq_免费短剧",
@@ -1397,7 +1397,7 @@
       },
       "quickSearch": 0,
       "api": "csp_XBPQ",
-      "ext": "./0930/评书.json"
+      "ext": "./lib/评书.json"
     },
     {
       "key": "hipy_js_一曲肝肠断",
