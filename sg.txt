@@ -1397,7 +1397,7 @@
       },
       "quickSearch": 0,
       "api": "csp_XBPQ",
-      "ext": "./lib/评书.json"
+      "ext": "https://d.kstore.dev/download/4708/omg/lib/评书.json"
     },
     {
       "key": "hipy_js_一曲肝肠断",
@@ -1424,7 +1424,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "./lib/哔哩戏曲.json"
+        "json": "https://d.kstore.dev/download/4708/omg/lib/哔哩戏曲.json"
       },
       "timeout": 20
     },
@@ -1442,7 +1442,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "./lib/哔哩相声.json"
+        "json": "https://d.kstore.dev/download/4708/omg/lib/哔哩相声.json"
       },
       "timeout": 20
     },
@@ -1460,7 +1460,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "./lib/哔哩综合.json"
+        "json": "https://d.kstore.dev/download/4708/omg/lib/哔哩综合.json"
       },
       "timeout": 20
     },
@@ -1478,7 +1478,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "./lib/演唱会.json"
+        "json": "https://d.kstore.dev/download/4708/omg/lib/演唱会.json"
       },
       "timeout": 20
     },
@@ -1496,7 +1496,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "./lib/女团热舞.json"
+        "json": "https://d.kstore.dev/download/4708/omg/lib/女团热舞.json"
       },
       "timeout": 20
     },
@@ -1531,7 +1531,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "./lib/哔哩合集.txt"
+        "json": "https://d.kstore.dev/download/4708/omg/lib/哔哩合集.txt"
       },
       "timeout": 20
     },
